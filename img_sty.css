@@ -1,5 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
+body{
+	background-image=url(http://sites.google.com/site/csstbr/img_srvc/bg.png);
+	background-repeat=no-repeat;
+
+}
 #bg{
 	height : 100%;
 	left: 0;
